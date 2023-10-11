@@ -22,7 +22,7 @@ You can install **Websites with Batch** with the following
 
 ```bash
   cd WwB-main
-  start setup.Batch
+  start setup.bat
 ```
     
 ## Support
